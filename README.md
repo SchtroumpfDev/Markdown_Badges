@@ -37,6 +37,7 @@ Apple Podcasts | ![Static Badge](https://img.shields.io/badge/Apple%20Podcasts-%
 App Store | ![Static Badge](https://img.shields.io/badge/App%20Store-%230D96F6?logo=App%20Store&logoColor=white) | `![Static Badge](https://img.shields.io/badge/App%20Store-%230D96F6?logo=App%20Store&logoCOlor=white)`
 Apple TV | ![Static Badge](https://img.shields.io/badge/Apple%20TV-%23000000?logo=Apple%20TV&logoColor=white) | `![Static Badge](https://img.shields.io/badge/Apple%20TV-%23000000?logo=Apple%20TV&logoColor=white)`
 Arc | ![Static Badge](https://img.shields.io/badge/Arc-%23FCBFBD?logo=Arc&logoColor=white) | `![Static Badge](https://img.shields.io/badge/Arc-%23FCBFBD?logo=Arc&logoColor=white)`
+Arch Linux | ![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=archlinux&logoColor=white)| `![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=archlinux&logoColor=white)`
 Arduino | ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=Arduino&logoColor=white) | `![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?logo=Arduino&logoColor=white)`
 Argo | ![Static Badge](https://img.shields.io/badge/Argo-%23EF7B4D?logo=Argo&logoColor=white) | `![Static Badge](https://img.shields.io/badge/Argo-%23EF7B4D?slogo=Argo&logoColor=white)`
 Arlo | ![Static Badge](https://img.shields.io/badge/Arlo-%2349B48A?logo=Arlo&logoColor=white) | `![Static Badge](https://img.shields.io/badge/Arlo-%2349B48A?logo=Arlo&logoColor=white)`
